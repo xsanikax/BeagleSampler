@@ -1,0 +1,31 @@
+# Build directories
+build/
+build*/
+out/
+bin/
+obj/
+*.dir/
+
+# Intermediate compiler and debugger files
+*.o
+*.obj
+*.lib
+*.a
+*.exp
+*.ilk
+*.pdb
+
+# IDE and tooling metadata
+.vs/
+*.sln.docstates
+*.suo
+*.user
+.vscode/
+.idea/
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
